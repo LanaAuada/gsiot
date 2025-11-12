@@ -1,7 +1,10 @@
 # Monitoramento de Temperatura e Umidade com MQTT e Sensor DHT22
-Julia Amorim - RM99609
-Lana Leite - RM551143
-Matheus Cavasini - RM97722
+Julia Amorim - RM99609  
+
+Lana Leite - RM551143  
+
+Matheus Cavasini - RM97722  
+
 
 ## 📘 Descrição do Projeto
 
