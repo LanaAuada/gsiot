@@ -110,8 +110,3 @@ Essa solução representa um **exemplo prático do uso da IoT no futuro do traba
 
 ---
 
-## 🧩 Autor
-
-**Lana Leite**  
-Engenharia de Software – FIAP  
-Projeto desenvolvido para a disciplina de IoT e Automação no contexto do Futuro do Trabalho.
